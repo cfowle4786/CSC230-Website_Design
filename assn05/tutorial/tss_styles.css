@@ -35,10 +35,10 @@ h2{
    background-color: rgb(235, 177, 131);
 }
 
-
-
 /* Aside and Blockquote Styles */
-
+aside blockquote {
+   color: rgb(232, 165, 116);
+}
 
 
 
