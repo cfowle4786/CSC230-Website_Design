@@ -24,7 +24,7 @@ body {
    background-color: ivory;
 }
 
-Heading Styles */
+/*Heading Styles */
 h1 {
    color: white;
    background-color: rgb(222, 128, 60);
@@ -35,10 +35,10 @@ h2{
    background-color: rgb(235, 177, 131);
 }
 
-
-
 /* Aside and Blockquote Styles */
-
+aside blockquote {
+   color: rgb(232, 165, 116);
+}
 
 
 
