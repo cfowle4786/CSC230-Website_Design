@@ -38,7 +38,21 @@ body {
 header {
    background-color: black;
 }
-
+p {
+   margin: 0px;
+   padding: 5px 25px 25px 25px;
+}
+body>p{
+   font-size: 1.1em;
+   text-align: center;
+}
+address{
+   font-style: normal;   
+   font-size:0.9em;   
+   text-align: center;   
+   padding-top: 10px;   
+   padding-bottom: 10px;   
+   }
 /* Navigation Styles */
 nav a{
    font-family: 'Trebuchet MS', Helvetica, sans-serif;   
@@ -55,21 +69,12 @@ nav a{
       background-color: hsla(0, 0%, 42%, 0.4);      
       }
 /* Section Styles */
-p {
-   margin: 0px;
-   padding: 5px 25px 25px 25px;
+section.playbill h1 {
+   font-size: 3em;
+   font-weight: normal;
+   margin: 0;
+   padding: 20px 0 10px 20px;
 }
-body>p{
-   font-size: 1.1em;
-   text-align: center;
-}
-address{
-   font-style: normal;   
-   font-size:0.9em;   
-   text-align: center;   
-   padding-top: 10px;   
-   padding-bottom: 10px;   
-   }
 
 /* Description List Styles */
 
