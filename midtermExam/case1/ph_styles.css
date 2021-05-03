@@ -32,7 +32,7 @@ html {
    background-color: hsl(91, 8%, 56%);
 }
 body {
-   color: hsl(58, 31%, 84%);
+   background-color: hsl(58, 31%, 84%);
    font-family: 'Palatino Linotype', 'Book Antigue', Palatino, serif;
 }
 header {
@@ -107,4 +107,8 @@ dt {
    font-weight: bold;
    color: hsla(0,0%,0%,0.4);
 }
-
+dd {
+   font-size: 1.3em;
+   margin-left: 0px;
+   margin-bottom: 10px;
+}
