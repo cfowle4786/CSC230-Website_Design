@@ -45,8 +45,11 @@ nav a{
    padding-top: 10px;   
    padding-bottom: 10px;   
    }
-
-
+   nav a:visited, nav a:link {   
+   color: white;   
+   text-decoration: none;   
+   background-color: hsla(0, 0%, 42%, 0.4);
+   }      
 
 /* Section Styles */
 p {
