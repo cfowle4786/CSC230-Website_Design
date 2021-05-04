@@ -14,8 +14,9 @@
 
 
 /* Structural Styles */
-
-
+html {
+background-color: rgba(173, 189, 227);
+}
 
 /* Heading Styles */
 
