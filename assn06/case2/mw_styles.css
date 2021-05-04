@@ -21,7 +21,10 @@ body {
    background-color: rgba(227, 210, 173, 1);
    font-family: 'Century Gothic', sans-serif;
 }
-
+footer {
+   background-color: rgba(208, 184, 109, 1);
+   padding: 5px 0;
+}
 /* Heading Styles */
 
 
