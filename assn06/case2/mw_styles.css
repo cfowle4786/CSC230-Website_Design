@@ -32,7 +32,9 @@ address {
    padding: 10px 0;
 }
 /* Heading Styles */
-
+h1, h2 {
+    font-style: normal;
+}
 
 
 /* Navigation Styles */
