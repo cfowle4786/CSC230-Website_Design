@@ -17,6 +17,10 @@
 html {
 background-color: rgba(173, 189, 227);
 }
+body {
+   background-color: rgba(227, 210, 173, 1);
+   font-family: 'Century Gothic', sans-serif;
+}
 
 /* Heading Styles */
 
