@@ -25,6 +25,12 @@ footer {
    background-color: rgba(208, 184, 109, 1);
    padding: 5px 0;
 }
+address {
+   font-size: 0.9em;
+   font-style: normal;
+   text-align: center;
+   padding: 10px 0;
+}
 /* Heading Styles */
 
 
