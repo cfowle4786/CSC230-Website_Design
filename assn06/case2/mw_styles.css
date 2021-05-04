@@ -71,5 +71,8 @@ aside#tour_itinerary h1 {
 aside#tour_itinerary h2 {
    font-size: 0.9em;
 }
+aside#tour_itinerary p {
+   font-size: 0.8em;
+}
 /* Blockquote Styles */
 
