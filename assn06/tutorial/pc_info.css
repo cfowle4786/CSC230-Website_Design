@@ -4,8 +4,8 @@
    Tutorial Case
    
    Positioning Styles for the pc_info.html file
-   Author: 
-   Date:   
+   Author: Christopher Fowler
+   Date:   05/05/2021
    
    Filename: pc_info.css
 
@@ -13,7 +13,11 @@
 
 
 /* Main Styles */
-
+main {
+   position: relative;
+   height: 1400px;
+   width: 100%;
+}
 
 
 /* Infographic Styles */
