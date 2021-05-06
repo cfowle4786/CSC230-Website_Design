@@ -21,11 +21,18 @@ main {
 
 
 /* Infographic Styles */
+div.infobox {
+   position: abosolute;
+}
 
 
 
 /* First Infographic */
-
+div#info1 {
+   display: block;
+   top: 20%;
+   left: 5%;
+}
 
 
 /* Second Infographic */
