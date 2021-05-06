@@ -23,7 +23,7 @@ main {
 
 /* Infographic Styles */
 div.infobox {
-   position: abosolute;
+   position: absolute;
 }
 
 
@@ -88,7 +88,7 @@ div#info7 {
 div#info8 {
    display: block;
    top: 1100px;
-   left: 68%;
+   left: 12%;
 }
 
 
