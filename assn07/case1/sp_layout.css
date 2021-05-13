@@ -40,7 +40,11 @@ html{
 
 
 /* Page Header Styles */
-
+header>img{
+   display: block;
+   width: 70%;
+   float: left;
+   }
 
 
 
