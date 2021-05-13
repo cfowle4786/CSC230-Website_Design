@@ -51,7 +51,10 @@ header>nav{
    padding-right: 2%;
    width: 30%;
 }
-
+header > nav a{
+   display: block;
+   width: 100%;
+   }
 
 
 /* Horizontal Navigation List Styles */
