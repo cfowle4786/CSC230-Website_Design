@@ -67,7 +67,13 @@ header > nav a{
 
 
 /* Topics Styles */
-
+ul#topics li{
+   display: block;
+   width: 20%;
+   float: left;
+   margin-left: 0%;
+   margin-right: 1.5%;
+   }
 
 
 
