@@ -31,7 +31,10 @@ html {
       display: block;
       width: 100%;
      }
-             
+     nav a {
+      text-decoration: none;
+     }
+                  
 
 
 /* Body Header Styles */
