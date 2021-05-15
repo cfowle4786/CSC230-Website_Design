@@ -31,9 +31,9 @@ html {
       display: block;
       width: 100%;
      }
-     nav a {
+     nav > ul > li > a {
       text-decoration: none;
-     }
+   }
                   
 
 
@@ -68,7 +68,13 @@ div#container {
    padding-right: 8px;
    padding-bottom: 8px;
   }
-  
+  div[class^="cell"]>a {
+   display: block;
+   width: 100%;
+   padding-left: 8px;
+   padding-top: 8px;
+  }
+    
 
 
 /* Footer Styles */
