@@ -17,6 +17,7 @@ html {
    background-color: rgb(101, 101, 101)
    }
    body {
+      position: relative;
       background-color: white;
       font-family: Verdana, Geneva, Arial, sans-serif;
       margin-top: 20px;
@@ -78,3 +79,12 @@ div#container {
 
 
 /* Footer Styles */
+footer {
+   position: absolute;
+   right: 8px;
+   bottom: 8px;   
+   color: rgb(143, 33, 36);
+   text-align: right;
+   font-size: 2vmin;
+}
+
