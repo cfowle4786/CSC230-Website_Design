@@ -38,7 +38,10 @@ html {
 
 
 /* Body Header Styles */
-
+body > header {
+   background-color: rgb(191, 168, 170);
+   height: 40px;
+  }
 
 
 /* DIV Container Styles */
