@@ -27,7 +27,11 @@ html {
       max-width: 960px;
       min-width: 320px;
      }
-        
+     body img {
+      display: block;
+      width: 100%;
+     }
+             
 
 
 /* Body Header Styles */
