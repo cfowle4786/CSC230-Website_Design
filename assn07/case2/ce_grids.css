@@ -41,4 +41,8 @@ div[class^='column'] {
 
 
 /* Grid Spacing Styles */
-
+div.container, div.row, div[class^='column'], div.cell, div.cell a {
+   -webkit-box-sizing: border-box;
+   -moz-box-sizing: border-box;
+   box-sizing: border-box;
+  }
