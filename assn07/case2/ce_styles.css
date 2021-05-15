@@ -42,7 +42,16 @@ body > header {
    background-color: rgb(191, 168, 170);
    height: 40px;
   }
-
+  body > header > nav un li {
+   display:block;
+   float: left;
+   margin-right: 20px;
+   padding-top: 10px;
+   padding-bottom:10px;
+   padding-left: 0px;
+   padding-right: 0px;
+   }
+  
 
 /* DIV Container Styles */
 
