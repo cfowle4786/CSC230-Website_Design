@@ -19,13 +19,15 @@ div.row {
    width: 100%;   
    clear: both;   
    }
-   div.row {
-      float: left;      
-      }
+div.row {
+   float: left;      
+   }
 
 
 /* Grid Columns Styles */
-
+div[class^='column'] {
+   float: left;
+  }
 
 
 
