@@ -86,7 +86,9 @@ a::after {
 }
 
 /* Page Break Styles */
-
+artcile:nth-of-type(n=2) {
+   page-break-before: always;
+}
 
 
 
