@@ -24,7 +24,7 @@
 /* HTML and Body Styles */
 
 html {
-   background: url(tf_back1.png) center center / cover no-repeat fixed;
+   background: url(tf_back1.png) center / cover no-repeat fixed;
    height: 100%;
    font-family: Verdana, Geneva, sans-serif;
    font-size: 12px;
@@ -205,5 +205,14 @@ a.submenuTitle:hover+ul.submenu, ul.submenu:hover {
    }
    nav.horizontal a.submenuTitle {
       display: none;
+   }
+   article {
+      float: left;
+      margin-right: 5%;
+      width: 55%;
+   }
+   aside {
+      float: left;
+      width: 40%;
    }
 }
