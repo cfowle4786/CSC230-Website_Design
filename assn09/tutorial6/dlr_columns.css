@@ -25,5 +25,12 @@
       -moz-column-gap: 30px;
       -webkit-column-gap: 30px;
       column-gap: 30px;
+
+      -moz-column-rule: 2px solid gray;
+      -webkit-column-rule: 2px solid gray;
+      column-rule: 2px solid gray;
+      
+      widows: 3;
+      orphans: 3;
    }
 }
