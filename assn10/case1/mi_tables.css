@@ -42,7 +42,9 @@ col.dataCols {
 }
 
 /* Table Header Styles */
-
+thead tr {
+   height: 60px;
+}
 
 
 
